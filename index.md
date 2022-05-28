@@ -4,9 +4,22 @@
 ## Aulas - Arquivos, tutoriais e vídeos
 ### Apresentação da disciplina
 [AULA_00-APRESENTACAO_2022-1](https://github.com/d-camargo/geo/blob/ae8ab9ee8777a388afc4187ff6d8e66c022f9c7d/arquivos/AULA_00-APRESENTACAO_2022-1.pdf)
+
 ### Introdução e aplicações do geoprocessamento
+[AULA_01-INTRODUCAO](https://github.com/d-camargo/geo/blob/65897db4e83f1ee69554438356894cc4922c1ffe/arquivos/AULA_01-INTRODUCAO.pdf)
+[Tutorial - Inserir camada vetorial no QGIS](https://sway.office.com/VH2ndMKEzRpI45ii?ref=Link)
+[Tutorial - Inserir dados manualmente na tabela de atributos](https://sway.office.com/gokwxb2FP3C4D7Lp?ref=Link)
+
 ### DATUM Geodésico, Elipsóide, sistemas de coordenadas, sistema de projeção e Sistema de Informação Geográfica
+[AULA_02-FUNDAMENTOS](https://github.com/d-camargo/geo/blob/65897db4e83f1ee69554438356894cc4922c1ffe/arquivos/AULA_01-INTRODUCAO.pdf)
+[Tutorial - Reprojetando camada vetorial](https://sway.office.com/kHHzvq2lQOFq3HSb?ref=Link)
+[QGIS - Sistema de Referência de Coordenadas (SRC)](https://youtu.be/RhE2YUpkNMo)
+
 ### Relacionamentos espaciais e topologia
+[AULA_03-TOPOLOGIA_RELACIONAMENTOS](https://github.com/d-camargo/geo/blob/65897db4e83f1ee69554438356894cc4922c1ffe/arquivos/AULA_03-TOPOLOGIA_RELACIONAMENTOS.pdf)
+[Inserindo Buffer no QGIS 3.x](https://sway.office.com/d8RavoQJsuYDThEq?ref=Link)
+[QGIS - Vetorização de infraestrutura de transportes por meio de mapas online](https://youtu.be/XwLkVBkKL8Q)
+
 ### Conceitos sobre redes de transporte. Configuração básica de rede de transporte e caminho mais curto
 ### Codificação e estrutura de dados. Operações com dados no QGIS
 ### Mapas de calor (Densidade de Kernel) e aplicações
