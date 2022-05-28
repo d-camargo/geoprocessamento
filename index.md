@@ -8,9 +8,12 @@
 ### Introdução e aplicações do geoprocessamento
 [AULA_01-INTRODUCAO](https://github.com/d-camargo/geo/raw/65897db4e83f1ee69554438356894cc4922c1ffe/arquivos/AULA_01-INTRODUCAO.pdf)
 
+
 [Tutorial - Inserir camada vetorial no QGIS](https://sway.office.com/VH2ndMKEzRpI45ii?ref=Link)
 
+
 [Tutorial - Inserir dados manualmente na tabela de atributos](https://sway.office.com/gokwxb2FP3C4D7Lp?ref=Link)
+
 
 ### DATUM Geodésico, Elipsóide, sistemas de coordenadas, sistema de projeção e Sistema de Informação Geográfica
 [AULA_02-FUNDAMENTOS](https://github.com/d-camargo/geo/blob/65897db4e83f1ee69554438356894cc4922c1ffe/arquivos/AULA_01-INTRODUCAO.pdf)
