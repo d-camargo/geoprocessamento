@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+# Disciplina de Geoprocessamento - G00GEO
+#### Prof. Diego Camargo
+
+## Aulas - Arquivos, tutoriais e vídeos
+### Apresentação da disciplina
+### Introdução e aplicações do geoprocessamento
+### DATUM Geodésico, Elipsóide, sistemas de coordenadas, sistema de projeção e Sistema de Informação Geográfica
+### Relacionamentos espaciais e topologia
+### Conceitos sobre redes de transporte. Configuração básica de rede de transporte e caminho mais curto
+### Codificação e estrutura de dados. Operações com dados no QGIS
+### Mapas de calor (Densidade de Kernel) e aplicações
 
 You can use the [editor on GitHub](https://github.com/d-camargo/geo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
