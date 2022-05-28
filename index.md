@@ -6,7 +6,7 @@
 [AULA_00-APRESENTACAO_2022-1](https://github.com/d-camargo/geo/blob/ae8ab9ee8777a388afc4187ff6d8e66c022f9c7d/arquivos/AULA_00-APRESENTACAO_2022-1.pdf)
 
 ### Introdução e aplicações do geoprocessamento
-[AULA_01-INTRODUCAO]([https://github.com/d-camargo/geo/blob/65897db4e83f1ee69554438356894cc4922c1ffe/arquivos/AULA_01-INTRODUCAO.pdf](https://github.com/d-camargo/geo/raw/65897db4e83f1ee69554438356894cc4922c1ffe/arquivos/AULA_01-INTRODUCAO.pdf))
+[AULA_01-INTRODUCAO](https://github.com/d-camargo/geo/raw/65897db4e83f1ee69554438356894cc4922c1ffe/arquivos/AULA_01-INTRODUCAO.pdf)
 
 [Tutorial - Inserir camada vetorial no QGIS](https://sway.office.com/VH2ndMKEzRpI45ii?ref=Link)
 
