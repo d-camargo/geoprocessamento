@@ -3,6 +3,7 @@
 
 ## Aulas - Arquivos, tutoriais e vídeos
 ### Apresentação da disciplina
+[AULA_00-APRESENTACAO_2022-1](https://github.com/d-camargo/geo/blob/ae8ab9ee8777a388afc4187ff6d8e66c022f9c7d/arquivos/AULA_00-APRESENTACAO_2022-1.pdf)
 ### Introdução e aplicações do geoprocessamento
 ### DATUM Geodésico, Elipsóide, sistemas de coordenadas, sistema de projeção e Sistema de Informação Geográfica
 ### Relacionamentos espaciais e topologia
