@@ -21,10 +21,11 @@
 - [Atividade 1](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_01-Geoprocessamento.pdf)
 
 ### Codificação e estrutura de dados. Operações com dados no QGIS
-- [AULA_02a-FUNDAMENTOS](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_02-FUNDAMENTOS.pdf)
+- [AULA_02a-FUNDAMENTOS](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_03-DADOS.pdf)
 - [QGIS - Manipulação de dados e mapa temático (densidade de infraestrutura rodoviária no Brasil)](https://youtu.be/GWm8ekcsv1M)
 - [Vídeo - Trabalhando com o Layout de impressão do QGIS](https://youtu.be/NvrLQUenRAQ)
 - Relacionamento de dados e identificação
+- [Atividade 2](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_01-Geoprocessamento.pdf)
 
 ### Relacionamentos espaciais e topologia
 - [AULA_03-TOPOLOGIA_RELACIONAMENTOS](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_03-TOPOLOGIA_RELACIONAMENTOS.pdf)
