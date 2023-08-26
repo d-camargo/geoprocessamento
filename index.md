@@ -25,6 +25,7 @@
 - [QGIS - Manipulação de dados e mapa temático (densidade de infraestrutura rodoviária no Brasil)](https://youtu.be/GWm8ekcsv1M)
 - [Vídeo - Trabalhando com o Layout de impressão do QGIS](https://youtu.be/NvrLQUenRAQ)
 - Relacionamento de dados e identificação
+- [Brasil - UF](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/BR_UF_2022.gpkg)
 - [Dados das rodovias](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/rodovias.csv)
 - [Atividade 2](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_01-Geoprocessamento.pdf)
 
