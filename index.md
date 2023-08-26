@@ -27,7 +27,7 @@
 - Relacionamento de dados e identificação
 - [Brasil - UF](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/BR_UF_2022.gpkg)
 - [Dados das rodovias](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/rodovias.csv)
-- [Atividade 2](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_01-Geoprocessamento.pdf)
+- [Atividade 2](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_02-Geoprocessamento.pdf)
 
 ### Relacionamentos espaciais e topologia
 - [AULA_03-TOPOLOGIA_RELACIONAMENTOS](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_03-TOPOLOGIA_RELACIONAMENTOS.pdf)
