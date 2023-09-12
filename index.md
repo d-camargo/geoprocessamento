@@ -35,7 +35,6 @@
 - [QGIS - Vetorização de infraestrutura de transportes por meio de mapas online](https://youtu.be/XwLkVBkKL8Q)
 - [Atividade 3](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_03-Geoprocessamento.pdf)
 
-
 ### Conceitos sobre redes de transporte. Configuração básica de rede de transporte e caminho mais curto
 - [AULA_04-REDES_MAPAS](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_04-REDES_MAPAS.pdf)
 - [QGIS - Configuração de rede de transporte e execução do caminho mais curto](https://youtu.be/ydCOEJsVo78)
@@ -45,7 +44,6 @@
 - [Segurança viária - Mapa de calor (Kernel) de acidentes em Belo Horizonte](https://youtu.be/gYEqmZudaG4)
 - [Dados de acidentes de trânsito com vítima - PBH](https://dados.pbh.gov.br/dataset/relacao-dos-veiculos-envolvidos-nos-acidentes-de-transito-com-vitima)
 - [Regionais da cidade de Belo Horizonte SMPOG - PBH](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/REGIONAIS_SMPOG_PBH.gpkg)
-
 
 ### Mapas de fluxo
 - [AULA_06-MAPA_FLUXO](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_06-MAPA_FLUXO.pdf)
