@@ -44,6 +44,8 @@
 - [AULA_05-ESTIMACAO_INTENSIDADE_PONTOS](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_05-ESTIMACAO_INTENSIDADE_PONTOS.pdf)
 - [Segurança viária - Mapa de calor (Kernel) de acidentes em Belo Horizonte](https://youtu.be/gYEqmZudaG4)
 - [Dados de acidentes de trânsito com vítima - PBH](https://dados.pbh.gov.br/dataset/relacao-dos-veiculos-envolvidos-nos-acidentes-de-transito-com-vitima)
+- [Regionais da cidade de Belo Horizonte SMPOG - PBH](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/REGIONAIS_SMPOG_PBH.gpkg)
+
 
 ### Mapas de fluxo
 - [AULA_06-MAPA_FLUXO](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_06-MAPA_FLUXO.pdf)
@@ -51,6 +53,7 @@
 - [Tutorial - Orientações sobre os dados e centróides](https://sway.office.com/zVaGMViN9u8VBDiK?ref=Link&loc=mysways)
 - [Vídeo - Matriz Origem-Destino (O/D) de cargas do Brasil e Mapa de fluxo (ou linha de desejo)](https://youtu.be/FvKtsuL-ul4)
 - [Arquivo CSV com os dados da matriz O/D de Minas Gerais](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/OD-MG_EXPORT.csv)
+- [Arquivo IBGE com as microrregiões do estado de MG - 2021](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/MICRO_MG-2021-2.gpkg)
 
 ### Conceitos básicos sobre sensoriamento remoto. Imagens Raster e processamento para obtenção de MDT (Modelo Digital de Terreno)
 - [AULA_X-]()
