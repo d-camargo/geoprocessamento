@@ -33,6 +33,8 @@
 - [AULA_03-TOPOLOGIA_RELACIONAMENTOS](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_03-TOPOLOGIA_RELACIONAMENTOS.pdf)
 - [Inserindo Buffer no QGIS 3.x](https://sway.office.com/d8RavoQJsuYDThEq?ref=Link)
 - [QGIS - Vetorização de infraestrutura de transportes por meio de mapas online](https://youtu.be/XwLkVBkKL8Q)
+- [Atividade 3](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_03-Geoprocessamento.pdf)
+
 
 ### Conceitos sobre redes de transporte. Configuração básica de rede de transporte e caminho mais curto
 - [AULA_04-REDES_MAPAS](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_04-REDES_MAPAS.pdf)
