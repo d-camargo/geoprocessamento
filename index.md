@@ -38,6 +38,7 @@
 ### Conceitos sobre redes de transporte. Configuração básica de rede de transporte e caminho mais curto
 - [AULA_04-REDES_MAPAS](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_04-REDES_MAPAS.pdf)
 - [QGIS - Configuração de rede de transporte e execução do caminho mais curto](https://youtu.be/ydCOEJsVo78)
+- [Atividade 4](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_04-Geoprocessamento.pdf)
 
 ### Mapas de calor (Densidade de Kernel) e aplicações
 - [AULA_05-ESTIMACAO_INTENSIDADE_PONTOS](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_05-ESTIMACAO_INTENSIDADE_PONTOS.pdf)
