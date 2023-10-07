@@ -48,6 +48,7 @@
 - [Acidentes com vitima - 2019](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/acidentes_com_vitima_2019-BH.csv)
 - [Acidentes com vitima - 2020](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/acidentes_com_vitima_2020-BH.csv)
 - [Acidentes com vitima - 2021](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/acidentes_com_vitima_2021-BH.csv)
+- [Atividade 5](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_05-Geoprocessamento.pdf)
 
 
 ### Mapas de fluxo
@@ -57,6 +58,7 @@
 - [Vídeo - Matriz Origem-Destino (O/D) de cargas do Brasil e Mapa de fluxo (ou linha de desejo)](https://youtu.be/FvKtsuL-ul4)
 - [Arquivo CSV com os dados da matriz O/D de Minas Gerais](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/OD-MG_EXPORT.csv)
 - [Arquivo IBGE com as microrregiões do estado de MG - 2021](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/MICRO_MG-2021-2.gpkg)
+- [Atividade 6](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_06-Geoprocessamento.pdf)
 
 ### Conceitos básicos sobre sensoriamento remoto. Imagens Raster e processamento para obtenção de MDT (Modelo Digital de Terreno)
 - [AULA_X-]()
