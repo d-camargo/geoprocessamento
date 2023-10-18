@@ -50,7 +50,6 @@
 - [Acidentes com vitima - 2021](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/acidentes_com_vitima_2021-BH.csv)
 - [Atividade 5](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_05-Geoprocessamento.pdf)
 
-
 ### Mapas de fluxo
 - [AULA_06-MAPA_FLUXO](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_06-MAPA_FLUXO.pdf)
 - [Tutorial - Passo a passo para criar o mapa de fluxo](https://sway.office.com/MBAQqIcFz4pooVun?ref=Link)
@@ -61,8 +60,15 @@
 - [Atividade 6](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_06-Geoprocessamento.pdf)
 
 ### Conceitos básicos sobre sensoriamento remoto. Imagens Raster e processamento para obtenção de MDT (Modelo Digital de Terreno)
-- [AULA_X-]()
+- [Sensoriamento Remoto: princípios e aplicações](https://youtu.be/hPuWMFt66oA?si=lU4WRQOkL6c6LHgz)
 - [QGIS - Elaborando MDT para projetos geométricos (preliminares ou básicos) de rodovias ou ferrovias](https://youtu.be/jZuTs68CSGc)
+- [Atividade 7](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_07-Geoprocessamento.pdf)
 
 ### Matriz de distâncias e análise da localidade mais próxima
 - [AULA_XX]()
+- [QGIS - Matriz de distâncias e análise da localidade mais próxima](https://youtu.be/vATTOVOozfQ?si=_37SQL0Egab7gejX)
+- [QGIS - Matriz de distâncias euclidianas e análise do ponto central mais próximo](https://youtu.be/mIHzlsoBFL8?si=F4asSl_NRqs-74GK)
+- [Rede Belo Horizonte](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/REDE_BELO_HORIZONTE.gpkg)
+- [Hospitais Belo Horizonte](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/HOSPITAIS.gpkg)
+- [Bairros Belo Horizonte - 2014](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/BAIRROS_2014_SUPLAN_PBH.gpkg)
+- [Atividade 8](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_08-Geoprocessamento.pdf)
