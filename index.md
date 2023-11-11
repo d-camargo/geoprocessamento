@@ -68,7 +68,7 @@
 - [AULA_XX]()
 - [QGIS - Matriz de distâncias e análise da localidade mais próxima](https://youtu.be/vATTOVOozfQ?si=_37SQL0Egab7gejX)
 - [QGIS - Matriz de distâncias euclidianas e análise do ponto central mais próximo](https://youtu.be/mIHzlsoBFL8?si=F4asSl_NRqs-74GK)
-- [Rede Belo Horizonte](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/REDE_BELO_HORIZONTE.gpkg)
+- Rede Belo Horizonte - Arquivo disponível no SIGAA
 - [Hospitais Belo Horizonte](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/HOSPITAIS.gpkg)
 - [Bairros Belo Horizonte - 2014](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/BAIRROS_2014_SUPLAN_PBH.gpkg)
 - [Atividade 8](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_08-Geoprocessamento.pdf)
