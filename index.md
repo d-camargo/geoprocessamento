@@ -72,3 +72,6 @@
 - [Hospitais Belo Horizonte](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/HOSPITAIS.gpkg)
 - [Bairros Belo Horizonte - 2014](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/BAIRROS_2014_SUPLAN_PBH.gpkg)
 - [Atividade 8](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_08-Geoprocessamento.pdf)
+
+### Análise geoespacial
+- [Atividade 9](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_09-Geoprocessamento.pdf)
