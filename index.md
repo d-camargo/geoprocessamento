@@ -9,6 +9,7 @@
 ### Introdução e aplicações do geoprocessamento
 - [AULA_01-INTRODUCAO](https://github.com/d-camargo/geo/raw/65897db4e83f1ee69554438356894cc4922c1ffe/arquivos/AULA_01-INTRODUCAO.pdf)
 - [Tutorial - Inserir camada vetorial no QGIS](https://sway.office.com/VH2ndMKEzRpI45ii?ref=Link)
+- [T2](https://github.com/d-camargo/geoprocessamento/blob/2d084eb4eb5d29b4131b4f6bb2ce52550eda54f7/inserir-camada.md)
 - [Tutorial - Inserir dados manualmente na tabela de atributos](https://sway.office.com/gokwxb2FP3C4D7Lp?ref=Link)
 - [Vídeo - Trabalhando com o Layout de impressão do QGIS](https://youtu.be/NvrLQUenRAQ)
 - [Malha Territorial do Brasil, por UFs - 2022](https://github.com/d-camargo/geo/raw/65897db4e83f1ee69554438356894cc4922c1ffe/arquivos/BR_UF_2022.zip)
