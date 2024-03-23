@@ -20,7 +20,6 @@
 - [QGIS - Sistema de Referência de Coordenadas (SRC)](https://youtu.be/RhE2YUpkNMo)
 - [Manual Técnico em Geociências N° 14 - Acesso e uso de dados geoespaciais. IBGE, 2019](https://biblioteca.ibge.gov.br/visualizacao/livros/liv101675.pdf)
 - Calculo da área dos poligonos
-- [Atividade 1](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_01-Geoprocessamento.pdf)
 
 ### Codificação e estrutura de dados. Operações com dados no QGIS
 - [AULA_02a-FUNDAMENTOS](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_03-DADOS.pdf)
@@ -29,18 +28,18 @@
 - Relacionamento de dados e identificação
 - [Brasil - UF](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/BR_UF_2022.gpkg)
 - [Dados das rodovias](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/rodovias.csv)
-- [Atividade 2](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_02-Geoprocessamento.pdf)
+
 
 ### Relacionamentos espaciais e topologia
 - [AULA_03-TOPOLOGIA_RELACIONAMENTOS](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_03-TOPOLOGIA_RELACIONAMENTOS.pdf)
 - [Inserindo Buffer no QGIS 3.x](https://sway.office.com/d8RavoQJsuYDThEq?ref=Link)
 - [QGIS - Vetorização de infraestrutura de transportes por meio de mapas online](https://youtu.be/XwLkVBkKL8Q)
-- [Atividade 3](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_03-Geoprocessamento.pdf)
+
 
 ### Conceitos sobre redes de transporte. Configuração básica de rede de transporte e caminho mais curto
 - [AULA_04-REDES_MAPAS](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_04-REDES_MAPAS.pdf)
 - [QGIS - Configuração de rede de transporte e execução do caminho mais curto](https://youtu.be/ydCOEJsVo78)
-- [Atividade 4](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_04-Geoprocessamento.pdf)
+
 
 ### Mapas de calor (Densidade de Kernel) e aplicações
 - [AULA_05-ESTIMACAO_INTENSIDADE_PONTOS](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_05-ESTIMACAO_INTENSIDADE_PONTOS.pdf)
@@ -50,7 +49,7 @@
 - [Acidentes com vitima - 2019](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/acidentes_com_vitima_2019-BH.csv)
 - [Acidentes com vitima - 2020](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/acidentes_com_vitima_2020-BH.csv)
 - [Acidentes com vitima - 2021](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/acidentes_com_vitima_2021-BH.csv)
-- [Atividade 5](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_05-Geoprocessamento.pdf)
+
 
 ### Mapas de fluxo
 - [AULA_06-MAPA_FLUXO](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_06-MAPA_FLUXO.pdf)
@@ -59,12 +58,12 @@
 - [Vídeo - Matriz Origem-Destino (O/D) de cargas do Brasil e Mapa de fluxo (ou linha de desejo)](https://youtu.be/FvKtsuL-ul4)
 - [Arquivo CSV com os dados da matriz O/D de Minas Gerais](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/OD-MG_EXPORT.csv)
 - [Arquivo IBGE com as microrregiões do estado de MG - 2021](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/MICRO_MG-2021-2.gpkg)
-- [Atividade 6](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_06-Geoprocessamento.pdf)
+
 
 ### Conceitos básicos sobre sensoriamento remoto. Imagens Raster e processamento para obtenção de MDT (Modelo Digital de Terreno)
 - [Sensoriamento Remoto: princípios e aplicações](https://youtu.be/hPuWMFt66oA?si=lU4WRQOkL6c6LHgz)
 - [QGIS - Elaborando MDT para projetos geométricos (preliminares ou básicos) de rodovias ou ferrovias](https://youtu.be/jZuTs68CSGc)
-- [Atividade 7](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_07-Geoprocessamento.pdf)
+
 
 ### Matriz de distâncias e análise da localidade mais próxima
 - [AULA_XX]()
@@ -73,7 +72,7 @@
 - Rede Belo Horizonte - Arquivo disponível no SIGAA
 - [Hospitais Belo Horizonte](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/HOSPITAIS.gpkg)
 - [Bairros Belo Horizonte - 2014](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/BAIRROS_2014_SUPLAN_PBH.gpkg)
-- [Atividade 8](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_08-Geoprocessamento.pdf)
+
 
 ### Análise geoespacial
-- [Atividade 9](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_09-Geoprocessamento.pdf)
+
