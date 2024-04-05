@@ -79,6 +79,6 @@
 
 
 ## Atividades
-[Atividade 03](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_03-Geoprocessamento_2024.pdf)
-[Atividade 04](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_04-Geoprocessamento_2024.pdf)
+- [Atividade 03](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_03-Geoprocessamento_2024.pdf)
+- [Atividade 04](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_04-Geoprocessamento_2024.pdf)
 
