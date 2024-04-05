@@ -3,9 +3,9 @@
 
 ## Aulas - Arquivos, tutoriais e vídeos
 ### Apresentação da disciplina
-- [PLANO DIDÁTICO - 2024 - 1](https://github.com/d-camargo/geo/raw/65897db4e83f1ee69554438356894cc4922c1ffe/arquivos/PD_Geoprocessamento.pdf)
-- [AULA_00-APRESENTACAO_2024-1](https://github.com/d-camargo/geo/raw/65897db4e83f1ee69554438356894cc4922c1ffe/arquivos/AULA_00-APRESENTACAO_2024-1.pdf)
-- [Modelo de Layout - Busque por layouts na internet também](https://github.com/d-camargo/geo/raw/65897db4e83f1ee69554438356894cc4922c1ffe/arquivos/Modelo_Layout.pdf)
+- [PLANO DIDÁTICO - 2024 - 1](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/PD_Geoprocessamento.pdf)
+- [AULA_00-APRESENTACAO_2024-1](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_00-APRESENTACAO_2024-1.pdf)
+- [Modelo de Layout - Busque por layouts na internet também](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Modelo_Layout.pdf)
 
 ### Introdução e aplicações do geoprocessamento
 - [AULA_01-INTRODUCAO](https://github.com/d-camargo/geo/raw/65897db4e83f1ee69554438356894cc4922c1ffe/arquivos/AULA_01-INTRODUCAO.pdf)
