@@ -3,7 +3,7 @@
 
 ## Aulas - Arquivos, tutoriais e vídeos
 ### Apresentação da disciplina
-- [PLANO DIDÁTICO - 2024 - 1](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/PD_Geoprocessamento.pdf)
+- [PLANO DIDÁTICO - 2024 - 1](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/PD_Geoprocessamento-v2024-1.pdf)
 - [AULA_00-APRESENTACAO_2024-1](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_00-APRESENTACAO_2024-1.pdf)
 - [Modelo de Layout - Busque por layouts na internet também](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Modelo_Layout.pdf)
 
