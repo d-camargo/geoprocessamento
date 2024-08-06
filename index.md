@@ -64,6 +64,7 @@
 
 
 ### Conceitos básicos sobre sensoriamento remoto. Imagens Raster e processamento para obtenção de MDT (Modelo Digital de Terreno)
+- [AULA_07-MAPA_FLUXO](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_06-SENSORIAMENTO_REMOTO.pdf)
 - [Sensoriamento Remoto: princípios e aplicações](https://youtu.be/hPuWMFt66oA?si=lU4WRQOkL6c6LHgz)
 - [QGIS - Elaborando MDT para projetos geométricos (preliminares ou básicos) de rodovias ou ferrovias](https://youtu.be/jZuTs68CSGc)
 
