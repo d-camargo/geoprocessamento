@@ -67,6 +67,7 @@
 - [AULA_07-MAPA_FLUXO](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_06-SENSORIAMENTO_REMOTO.pdf)
 - [Sensoriamento Remoto: princípios e aplicações](https://youtu.be/hPuWMFt66oA?si=lU4WRQOkL6c6LHgz)
 - [QGIS - Elaborando MDT para projetos geométricos (preliminares ou básicos) de rodovias ou ferrovias](https://youtu.be/jZuTs68CSGc)
+- [ASF Data Search](https://search.asf.alaska.edu/)
 
 
 ### Matriz de distâncias e análise da localidade mais próxima
