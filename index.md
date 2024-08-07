@@ -68,6 +68,7 @@
 - [Sensoriamento Remoto: princípios e aplicações](https://youtu.be/hPuWMFt66oA?si=lU4WRQOkL6c6LHgz)
 - [QGIS - Elaborando MDT para projetos geométricos (preliminares ou básicos) de rodovias ou ferrovias](https://youtu.be/jZuTs68CSGc)
 - [ASF Data Search](https://search.asf.alaska.edu/)
+- [Alos Palsar ZIP](https://cefetmgbr-my.sharepoint.com/:u:/g/personal/diegocamargo_cefetmg_br/EalnraYjMHBOqm0MpHfyyBwBT-ohMyj9R7almos_tTxgKQ?e=hvnXYn)
 
 
 ### Matriz de distâncias e análise da localidade mais próxima
