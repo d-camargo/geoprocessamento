@@ -1,10 +1,13 @@
 # Disciplina de Geoprocessamento - G00GEO
 #### Prof. Diego Camargo
 
+## Baixar versão LTR (Long Term Release)
+[Link para baixar QGIS 3.34 - Windows](https://qgis.org/downloads/QGIS-OSGeo4W-3.34.9-1.msi)
+
 ## Aulas - Arquivos, tutoriais e vídeos
 ### Apresentação da disciplina
-- [PLANO DIDÁTICO - 2024 - 1](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/PD_Geoprocessamento-v2024-1.pdf)
-- [PLANO DIDÁTICO - 2024 - Pós Paralisação](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Plano-Didatico-vParalisacao2.pdf)
+- [Plano Didático - 2024 - 1](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/PD_Geoprocessamento-v2024-1.pdf)
+- [Plano Didático - 2024 - Pós Paralisação](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Plano-Didatico-vParalisacao2.pdf)
 - [AULA_00-APRESENTACAO_2024-1](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_00-APRESENTACAO_2024-1.pdf)
 - [Modelo de Layout - Busque por layouts na internet também](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Modelo_Layout.pdf)
 
@@ -75,9 +78,12 @@
 - [AULA_XX]()
 - [QGIS - Matriz de distâncias e análise da localidade mais próxima](https://youtu.be/vATTOVOozfQ?si=_37SQL0Egab7gejX)
 - [QGIS - Matriz de distâncias euclidianas e análise do ponto central mais próximo](https://youtu.be/mIHzlsoBFL8?si=F4asSl_NRqs-74GK)
-- [Rede Belo Horizonte - Arquivo disponível no SIGAA](https://cefetmgbr-my.sharepoint.com/:u:/g/personal/diegocamargo_cefetmg_br/EcBWeOpIRmlLv3_4TsjbN2YBhR0bafPaRP1HC0Rskr5s-g?e=21zJbe)
+- [Rede Belo Horizonte](https://cefetmgbr-my.sharepoint.com/:u:/g/personal/diegocamargo_cefetmg_br/EcBWeOpIRmlLv3_4TsjbN2YBhR0bafPaRP1HC0Rskr5s-g?e=21zJbe)
 - [Hospitais Belo Horizonte](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/HOSPITAIS.gpkg)
 - [Bairros Belo Horizonte - 2014](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/BAIRROS_2014_SUPLAN_PBH.gpkg)
+- Códgio SQL
+
+  ```SELECT origin_id, destination_id, MIN(total_cost) AS shortest_distance, geometry FROM input1 GROUP BY origin_id```
 
 
 ### Análise geoespacial
@@ -90,4 +96,4 @@
 - [Atividade 06](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_06-Geoprocessamento_2024.pdf)
 - [Atividade 07](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_07-Geoprocessamento_2024.pdf)
 - [Atividade 08](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_08-Geoprocessamento.pdf)
-- [Atividade 09](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_09-Geoprocessamento.pdf)
+- [Atividade 09](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_09-Geoprocessamento1.pdf)
