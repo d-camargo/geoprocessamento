@@ -1,5 +1,8 @@
 # Disciplina de Geoprocessamento - G00GEO
-#### Prof. Diego Camargo
+### Prof. Diego Camargo
+
+## Calendário acadêmico - CEFET-MG Campus Nova Suíça
+[Calendário DIRGRAD - 1º Semestre Reposição de Greve](https://www.dirgrad.cefetmg.br/wp-content/uploads/sites/81/2024/07/Calendario-BH-2024_1_Retomada_b.pdf)
 
 ## Baixar versão LTR (Long Term Release)
 [Link para baixar QGIS 3.34 - Windows](https://qgis.org/downloads/QGIS-OSGeo4W-3.34.9-1.msi)
