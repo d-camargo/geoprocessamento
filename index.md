@@ -2,15 +2,14 @@
 ### Prof. Diego Camargo
 
 ## Calendário acadêmico - CEFET-MG Campus Nova Suíça
-[Calendário DIRGRAD - 1º Semestre Reposição de Greve](https://www.dirgrad.cefetmg.br/wp-content/uploads/sites/81/2024/07/Calendario-BH-2024_1_Retomada_b.pdf)
+[Calendário DIRGRAD - 1º Semestre Reposição de Greve](https://www.dirgrad.cefetmg.br/wp-content/uploads/sites/81/2024/09/CalendarioGraduacao_2024_02_BHTE.pdf)
 
 ## Baixar versão LTR (Long Term Release)
 [Link para baixar QGIS 3.34 - Windows](https://qgis.org/downloads/QGIS-OSGeo4W-3.34.9-1.msi)
 
 ## Aulas - Arquivos, tutoriais e vídeos
 ### Apresentação da disciplina
-- [Plano Didático - 2024 - 1](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/PD_Geoprocessamento-v2024-1.pdf)
-- [Plano Didático - 2024 - Pós Paralisação](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Plano-Didatico-vParalisacao2.pdf)
+- [Plano Didático - 2024 - 1](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/PD_Geoprocessamento-v2024-2.pdf)
 - [AULA_00-APRESENTACAO_2024-1](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_00-APRESENTACAO_2024-1.pdf)
 - [Modelo de Layout - Busque por layouts na internet também](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Modelo_Layout.pdf)
 
