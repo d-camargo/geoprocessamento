@@ -2,7 +2,7 @@
 ### Prof. Diego Camargo
 
 ## Calendário acadêmico - CEFET-MG Campus Nova Suíça
-[Calendário DIRGRAD - 1º Semestre Reposição de Greve](https://www.dirgrad.cefetmg.br/wp-content/uploads/sites/81/2024/09/CalendarioGraduacao_2024_02_BHTE.pdf)
+[Calendário DIRGRAD - 2º Semestre](https://www.dirgrad.cefetmg.br/wp-content/uploads/sites/81/2024/09/CalendarioGraduacao_2024_02_BHTE.pdf)
 
 ## Baixar versão LTR (Long Term Release)
 [Link para baixar QGIS 3.34 - Windows](https://qgis.org/downloads/QGIS-OSGeo4W-3.34.9-1.msi)
