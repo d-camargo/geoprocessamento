@@ -52,9 +52,12 @@
 - [Segurança viária - Mapa de calor (Kernel) de acidentes em Belo Horizonte](https://youtu.be/gYEqmZudaG4)
 - [Dados de acidentes de trânsito com vítima - PBH](https://dados.pbh.gov.br/dataset/relacao-dos-veiculos-envolvidos-nos-acidentes-de-transito-com-vitima)
 - [Regionais da cidade de Belo Horizonte SMPOG - PBH](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/REGIONAIS_SMPOG_PBH.gpkg)
+- [Acidentes com vítima - 2018](https://1drv.ms/u/s!ArShj50vZW0QhsMfcstptjkHgN2emw?e=gDbeE3)
 - [Acidentes com vitima - 2019](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/acidentes_com_vitima_2019-BH.csv)
 - [Acidentes com vitima - 2020](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/acidentes_com_vitima_2020-BH.csv)
 - [Acidentes com vitima - 2021](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/acidentes_com_vitima_2021-BH.csv)
+- [Acidentes com vitima - 2022](https://1drv.ms/u/s!ArShj50vZW0QhsMd56Gwq15sqbFRsg?e=Rjn31j)
+- [Acidentes com vitima - 2023](https://1drv.ms/u/s!ArShj50vZW0QhsMeGs3Ah-hH2PHkMQ?e=faTL7k)
 
 
 ### Mapas de fluxo
