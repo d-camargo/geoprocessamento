@@ -72,7 +72,8 @@
 
 
 ### Conceitos básicos sobre sensoriamento remoto. Imagens Raster e processamento para obtenção de MDT (Modelo Digital de Terreno)
-- [AULA_07-MAPA_FLUXO](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_06-SENSORIAMENTO_REMOTO.pdf)
+- [AULA_07a-Sensoriamento Remoto](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/AULA_06-SENSORIAMENTO_REMOTO.pdf)
+- [AULA_07b-Sensoriamento Remoto](https://raw.githubusercontent.com/d-camargo/topografia_avancada/refs/heads/master/docs/AULA_02-SENSORIAMENTO_REMOTO.pdf)
 - [Sensoriamento Remoto: princípios e aplicações](https://youtu.be/hPuWMFt66oA?si=lU4WRQOkL6c6LHgz)
 - [QGIS - Elaborando MDT para projetos geométricos (preliminares ou básicos) de rodovias ou ferrovias](https://youtu.be/jZuTs68CSGc)
 - [ASF Data Search](https://search.asf.alaska.edu/)
@@ -105,7 +106,7 @@
 - [Atividade 05b](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_05b-Geoprocessamento.pdf)
 - [Atividade 06](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_06-Geoprocessamento_2024.pdf)
 - [Atividade 07](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_07-Geoprocessamento_2024.pdf)
-- [Atividade 08](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_08-Geoprocessamento.pdf)
+- [Atividade 08](https://medium.com/@eng.diegocamargo/atividade-02-topografia-avançada-b9cf6f990ba5)
 - [Atividade 09](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_09-Geoprocessamento1.pdf)
 - [Atividade 10](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_10-Geoprocessamento.pdf)
 - [Atividade 11](https://raw.githubusercontent.com/d-camargo/geo/gh-pages/arquivos/Atividade_11-Geoprocessamento.pdf)
