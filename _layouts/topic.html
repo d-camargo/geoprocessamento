@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<div class="topic-container container">
+    <div class="breadcrumb">
+        <a href="{{ '/' | relative_url }}" class="back-link">
+            <span class="arrow">←</span> Voltar para o Início
+        </a>
+    </div>
+
+    <article class="topic-content">
+        <header class="topic-header">
+            <div class="topic-badge">AULA {{ page.order | prepend: '00' | slice: -2, 2 }}</div>
+            <h1 class="topic-main-title">{{ page.title }}</h1>
+        </header>
+
+        <div class="prose">
+            {{ content }}
+        </div>
+    </article>
+</div>

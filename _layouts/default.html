@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ site.description }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body class="theme-dark">
+    <div class="topographic-bg"></div>
+    <header class="site-header">
+        <div class="container">
+            <a href="{{ '/' | relative_url }}" class="brand">
+                <span class="brand-code">G00GEO</span>
+                <span class="brand-name">Geoprocessamento</span>
+            </a>
+            <nav class="site-nav">
+                <a href="{{ '/' | relative_url }}">Início</a>
+                <a href="https://github.com/d-camargo/geo" target="_blank" rel="noopener">Repositório Turma</a>
+                <a href="http://www.dcamargo.com.br" target="_blank" rel="noopener">Contato</a>
+            </nav>
+        </div>
+    </header>
+
+    <main class="page-content">
+        {{ content }}
+    </main>
+
+    <footer class="site-footer">
+        <div class="container">
+            <p>Disciplina de Geoprocessamento do Curso de Engenharia de Transportes</p>
+            <p><strong>Prof. Diego Camargo</strong></p>
+            <p class="institution">Departamento de Engenharia de Transportes<br>CEFET-MG - Campus Nova Suíça</p>
+        </div>
+    </footer>
+</body>
+</html>

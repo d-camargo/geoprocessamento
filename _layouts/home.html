@@ -1,0 +1,39 @@
+---
+layout: default
+---
+<div class="home-container container">
+    <section class="hero">
+        <div class="hero-content">
+            <h1 class="hero-title">Geoprocessamento</h1>
+            <p class="hero-subtitle">Material de apoio e roteiros de atividades da disciplina G00GEO.</p>
+            
+            <div class="hero-links">
+                <a href="https://www.dirgrad.cefetmg.br/wp-content/uploads/sites/81/2024/09/CalendarioGraduacao_2024_02_BHTE.pdf" class="btn btn-outline" target="_blank">Calendário Acadêmico</a>
+                <a href="https://qgis.org/downloads/QGIS-OSGeo4W-3.34.9-1.msi" class="btn btn-primary" target="_blank">Baixar QGIS 3.34 LTR</a>
+            </div>
+        </div>
+    </section>
+
+    {{ content }}
+
+    <section class="topics-section">
+        <div class="section-header">
+            <h2 class="section-title">Módulos e Aulas</h2>
+            <div class="section-line"></div>
+        </div>
+        <div class="topics-grid">
+            {% assign sorted_topics = site.topicos | sort: 'order' %}
+            {% for topic in sorted_topics %}
+            <a href="{{ topic.url | relative_url }}" class="topic-card">
+                <div class="topic-card-header">
+                    <span class="topic-number">AULA {{ topic.order | prepend: '00' | slice: -2, 2 }}</span>
+                </div>
+                <h3 class="topic-title">{{ topic.title }}</h3>
+                <div class="topic-meta">
+                    <span class="topic-action">Acessar Material <span class="arrow">→</span></span>
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+    </section>
+</div>
